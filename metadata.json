@@ -1,0 +1,6 @@
+{
+  "name": "Ultraverse NFT Marketplace",
+  "description": "Frontend Simplified Virtual Internship NFT Marketplace with comprehensive AOS animations, live countdown timers, explore filtering, skeleton loading, and wallet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
